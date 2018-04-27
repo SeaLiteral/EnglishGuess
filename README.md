@@ -1,2 +1,2 @@
 # EnglishGuess
-A dictioanry that guesses the spelling of unknown words
+A Python dictionary for Plover that guesses the spelling of unknown words
